@@ -1,4 +1,13 @@
 {
+  "name": "js-hex-color-app",
+  "version": "1.0.0",
+  "description": "A JavaScript hex color application.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Igor",
+  "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.3.3"
   }
